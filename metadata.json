@@ -1,0 +1,8 @@
+{
+  "name": "Helmet & Road-Safety Violation Detection System",
+  "description": "AI-powered road-safety traffic monitoring system detecting helmets, riders, triple riding, mobile phone usage, and vehicle registration numbers.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
